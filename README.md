@@ -4,6 +4,10 @@
 Atividades práticas de desenvolvimento Front-end.
 ## Formação .Net
 ### Turma 2021.1
+<<<<<<< HEAD
 #### 15/12/2021
+=======
+#### 15/12/2021- 16/12/2021- 17/12/2021
+>>>>>>> e93ca94 (Primeiros Templates)
 - Renan Gonzaga Rodrigues
 - Renan Nascimento da Silva
